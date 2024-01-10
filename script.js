@@ -55,7 +55,7 @@ function createErrorCard(msg) {
     
     // Create an image element
     const errorImage = document.createElement('img');
-    errorImage.src = '/media/Data-E/GitStalker/error-404.png'; // Replace with the path to your error image
+    errorImage.src = '/error-404.png'; // Replace with the path to your error image
     errorImage.alt = 'Error Image';
 
 
